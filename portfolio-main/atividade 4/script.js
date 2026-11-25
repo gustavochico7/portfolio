@@ -9,5 +9,5 @@ function parouimpar(){
         alert("o numero é par");
     }else{
         alert("o numero é impar")
-    }
+}
 }
