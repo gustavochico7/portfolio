@@ -1,0 +1,20 @@
+body {
+    background-color: rgb(0, 2, 119);
+}
+main{
+    background-color: rgb(247, 247, 247);
+}
+a p{
+    background-color: darkgoldenrod;
+    width: 30%;
+    padding: 10px;
+    font-weight: bold;
+    border-radius: 5px;
+    text-align: center;
+    margin: 15px auto;
+    transition: 1s all;
+}
+a p:hover{
+    background-color: goldenrod;
+    transform: scale(1.2);
+}
