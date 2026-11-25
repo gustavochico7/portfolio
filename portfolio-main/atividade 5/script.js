@@ -1,10 +1,10 @@
 function maior(){
-    let number1;
-    let number2;
+    let numero1;
+    let numero2;
     let resultado;
 
-    number1 = Number(prompt("Digite o primeiro número."));
-    number2 = Number(prompt("Digite o segundo número."));
+    numero1 = Number(prompt("Digite o primeiro número."));
+    numero2 = Number(prompt("Digite o segundo número."));
 
     if(numero1 > numero2){
         alert("o número " + numero1 + " é maior que o número " + numero2 + ",");
