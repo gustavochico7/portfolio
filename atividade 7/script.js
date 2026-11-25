@@ -9,9 +9,9 @@ function aleatorio() {
     let mostrar = document.getElementById('resultado');
     mostrar.innerHTML += `<p>Acabei de pensar no numero ${num}</p>`;
 
-    if (num == 67)
-    
-    alert ("voce tem muita aura");
+    if (num == 67){
+        alert ("voce tem muita aura");
+    }
     
 
 }
